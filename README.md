@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hafiz Darmawan</h1>
 <h3 align="center">Backend developer from Indonesia</h3>
 
+I am a dedicated and skilled backend developer with extensive experience in Go (Golang) programming, currently
+seeking opportunities to contribute to dynamic development teams. I am proficient in designing and implementing
+robust APIs using OpenAPI specifications. I am adept at working with various tech stacks, including Docker, and SQL
+databases. I possess strong problem-solving abilities and a keen interest in leveraging cutting-edge technologies to
+drive innovative solutions. I am committed to continuous learning and professional growth in the field of backend
+development.
+
 - 📫 How to reach me **hafizdarmawan@gmail.com**
 
 - ⚡ Fun fact **Im Fast Learner**
